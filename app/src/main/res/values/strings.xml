@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BlabberL</string>
+    <string name="hint_enter_text">Enter text</string>
+    <string name="cd_swap_languages">Swap source &amp; target language</string>
+    <string name="cd_voice_input">Speak to translate text</string>
+</resources>
